@@ -1,0 +1,1 @@
+Testing AWS_ECR_FASTAPI
